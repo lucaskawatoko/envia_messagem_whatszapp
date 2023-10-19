@@ -17,11 +17,3 @@ Para utilizar corretamente este script, siga os passos abaixo:
 6. Pressione "Enter" para executar o script.
 
 Antes de prosseguir com esses passos, certifique-se de que você está na conversa correta para evitar o envio acidental a destinatários errados. É importante ressaltar que esse procedimento deve ser realizado apenas no WhatsApp Web.
-
-## Contribuições
-
-Contribuições para a melhoria deste script são bem-vindas. Se você tiver sugestões ou melhorias a fazer, sinta-se à vontade para colaborar.
-
-## Licença
-
-Este projeto é disponibilizado sob a [Licença MIT](LICENSE).
