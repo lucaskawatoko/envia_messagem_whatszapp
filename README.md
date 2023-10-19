@@ -1,12 +1,10 @@
-# Script de Conscientização para Proteção no WhatsApp
-
-Este é um script projetado para promover a conscientização sobre a segurança no WhatsApp e ajudar a prevenir golpes e mensagens indesejadas. É fundamental enfatizar que este script tem como objetivo educar os usuários e não promover atividades perturbadoras ou maliciosas.
+# Script irrita golpista
 
 ## Instruções de Uso
 
 Para utilizar corretamente este script, siga os passos abaixo:
 
-1. **Clique aqui:** []
+1.  **Clique aqui:** [Link para o Script](https://github.com/lucaskawatoko/envia_messagem_whatszapp/blob/main/enviar_message.js)
 
 2. Copie o código fornecido.
 
